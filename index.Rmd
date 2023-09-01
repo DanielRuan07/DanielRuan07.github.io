@@ -1,0 +1,34 @@
+---
+title: "Daniel Ruan"
+image: "daniel.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/daniel-ruan-75685b1a4/"
+  - label: Instagram
+    url: "https://www.instagram.com/danielruan01/"
+  - label: GitHub
+    url: "https://github.com/DanielRuan07"
+  - label: Email
+    url: "mailto:danielruan0177@gmail.com"
+output:
+  postcards::jolla_blue
+---
+
+## Bio
+
+I graduated from Wake Forest University in May 2023, where I studied Biochemsitry & Molecular Biology and Mathematical Statistics. I am a first year ScM student in the department of biostatistics. I have some previous working knowledge with R and GitHub, but this is my first time learning it systematically. After obtaining my masters degree, I want to work for pharmaceutical companies.
+
+## Fun Facts
+
+1. I play chess.
+2. I play GeoGuessr.
+3. I love watching football.
+4. I like country music.
+5. I enjoy watching romcoms.
+
+## GeoGuessr
+
+https://www.geoguessr.com/user/60e89cf177e6220001194f5d
+
+This is my GeoGuessr profile. Please let me know if anyone is interested in the game or wants to play against me!
+
